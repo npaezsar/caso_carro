@@ -1,5 +1,7 @@
 # EJERCICIOS CASO CARRO
 
+## Realice los ejercicios que se indican a continuación, elaborando adicionalmente una representación gráfica de los objetos que se crean en RAM, en cada caso. 
+
 1. Cree un carro de color amarillo, ubicado en el origen.  Muestra la información del carro creado.
 2. Mueva el carro amarillo a la posicion (100, 100).  Notifique la acción con un mensaje.
 3. Acelere el carro amarillo hasta que alcance una velocidad de 40.  Notifique la acción con un mensaje.
